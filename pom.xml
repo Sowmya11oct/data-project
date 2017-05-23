@@ -3,7 +3,7 @@
   <groupId>com.sqa.sb</groupId>
   <artifactId>data-project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>new-basic-project</name>
+  
 <!-- Libraries to be added within your project -->
   <dependencies>
   <!-- https://mvnrepository.com/artifact/junit/junit -->
